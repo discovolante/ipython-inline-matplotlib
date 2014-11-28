@@ -1,10 +1,20 @@
-ipython-inline-matplotlib
-=========================
+Interactive (zoom, pan) matplotlib plots inside ipython notebook!
+=========================================================
 
-Interactive (zoom, pan) matplotlib plots inside ipython!
+Why would I do yet another plot thing?
 ---------------------------------------------------------
+Matplotlib is a very powerful tool but yet inside ipython notebook 
+this is quite unusable, because you cannot zoom, pan or interact in any other way.
+
+
+With this package, you can 
 
 
 
+Usage
+-----
 
-This package allows you to use matplotlib plots with all of 
+Limitations
+----------
+
+
